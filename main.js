@@ -31,7 +31,7 @@ const displayBackgroundImage = (weatherData) => {
 };
 
 const displayData = (weatherData) => {
-  // Aquí puedes agregar el código para mostrar los datos del clima en la página web
+  
 };
 
 const getWeatherData = async (city) => {
